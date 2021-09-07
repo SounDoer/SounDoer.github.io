@@ -1,6 +1,7 @@
 
 #### Xichen's Vlog #039 道具库房
 
+![Xichen Vlog 039 Cover](cover/Xichen_Vlog_039_Cover.jpeg)
 [YouTube](https://www.youtube.com/watch?v=1pO5mkMhckw)
 [Bilibili](https://www.bilibili.com/video/BV1Zq4y1T72y)
 
@@ -8,6 +9,7 @@
 
 #### Xichen's Vlog #038 Foley with Air
 
+![Xichen Vlog 038 Cover](cover/Xichen_Vlog_038_Cover.jpeg)
 [YouTube](https://www.youtube.com/watch?v=1tl_UAWcMfc)
 [Bilibili](https://www.bilibili.com/video/BV1bf4y1A72d)
 
