@@ -17,6 +17,7 @@
 
 #### Xichen's Vlog #037 2021 Global Game Jam《剑入禅境》开发纪录
 
+![Xichen Vlog 037 Cover](cover/Xichen_Vlog_037_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=tlYmEOBl11g)
 [Bilibili](https://www.bilibili.com/video/BV16v411s7i6)
 
@@ -30,6 +31,7 @@ Music from Crouching Tiger, Hidden Dragon OST by Tan Dun, Yo-Yo Ma, Xie-yang Che
 
 Xichen's Vlog #036 My Drone Flying above The Bund
 
+![Xichen Vlog 036 Cover](cover/Xichen_Vlog_036_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=AzDUX9r7Ejc)
 [Bilibili](https://www.bilibili.com/video/BV1oK4y1j72V)
 
@@ -42,6 +44,7 @@ Music in Video:
 
 Xichen's Vlog #035 Abandoned Metre-Gauge Railways in Xujiadu, Yunnan
 
+![Xichen Vlog 035 Cover](cover/Xichen_Vlog_035_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=PaYudIfVo1I)
 [Bilibili](https://www.bilibili.com/video/bv1iK4y1h7Sa)
 
@@ -60,6 +63,7 @@ Music in Video:
 
 Xichen's Vlog #034 Rural Fair in Qinglong Town, Yunnan
 
+![Xichen Vlog 034 Cover](cover/Xichen_Vlog_034_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=xkdf7FnKPpI)
 [Bilibili](https://www.bilibili.com/video/BV145411j7KE)
 
@@ -72,6 +76,7 @@ Music in Video:
 
 Xichen's Vlog #033 Yunnan Fuxian Lake
 
+![Xichen Vlog 033 Cover](cover/Xichen_Vlog_033_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=fUuDUrfdj1Y)
 [Bilibili](https://www.bilibili.com/video/BV1HK4y1h7F5)
 
@@ -85,6 +90,7 @@ Cautious Fog by Harbor Fate
 
 #### Xichen's Vlog #032 快乐合成器
 
+![Xichen Vlog 032 Cover](cover/Xichen_Vlog_032_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ov-9Wer4KCc)
 [Bilibili](https://www.bilibili.com/video/BV16h411X7u7)
 
@@ -97,6 +103,7 @@ Normalize by Stanley Gurvich
 
 Xichen's Vlog #031 Moonlight on Dongtan, Shanghai
 
+![Xichen Vlog 031 Cover](cover/Xichen_Vlog_031_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=6liCwO19ZFY)
 [Bilibili](https://www.bilibili.com/video/BV1Qa4y1L7TC)
 
@@ -112,6 +119,7 @@ Music in Video:
 
 #### Xichen's Vlog #030 侯老师开课啦
 
+![Xichen Vlog 030 Cover](cover/Xichen_Vlog_030_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ufFtdt9wKek)
 [Bilibili](https://www.bilibili.com/video/bv1DT4y1j7qJ)
 
@@ -122,6 +130,7 @@ Grumpy Snowflake by Peter Spacey
 
 #### Xichen's Vlog #029 Audio Designer as Game Developer
 
+![Xichen Vlog 029 Cover](cover/Xichen_Vlog_029_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=WIe9NFA_ZRA)
 [Bilibili](https://www.bilibili.com/video/BV1Za4y1i7Rd)
 
@@ -134,6 +143,7 @@ Better Now Instrumental Version by These Nuts
 
 Xichen's Vlog #028 A Special Warner Bros. Studio Tour
 
+![Xichen Vlog 028 Cover](cover/Xichen_Vlog_028_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=PRqeI3vFDo0)
 [Bilibili](https://www.bilibili.com/video/BV1P54y1R73e)
 
@@ -149,6 +159,7 @@ Diamond by The Delorean
 
 #### Xichen's Vlog #027 突突突突突
 
+![Xichen Vlog 027 Cover](cover/Xichen_Vlog_027_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=P0d5BbLGoxA)
 [Bilibili](https://www.bilibili.com/video/av93662654)
 
