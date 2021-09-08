@@ -23,7 +23,7 @@
 
 又一次在 Game Jam 活动中与梓涛合作，完成了一部着重声音体验的小作品。
 
-[游戏下载链接](https://yezi.itch.io/sz)
+[《剑入禅境》游戏下载链接](https://yezi.itch.io/sz)
 
 Music from Crouching Tiger, Hidden Dragon OST by Tan Dun, Yo-Yo Ma, Xie-yang Chen, David Cossin
 
@@ -179,6 +179,59 @@ Overdrive by Anton Vlasov
 Punch by Oliver Michael  
 Bionic Games by Ian Post  
 Do the Math by SLPSTRM
+
+#### Xichen's Vlog #026 NExT Game Jam
+
+![Xichen Vlog 026 Cover](cover/Xichen_Vlog_026_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=yDq4LN-Dubw)
+[Bilibili](https://www.bilibili.com/video/av80837219)
+
+NExT Studios 48小时 Game Jam 全纪录，以及与知乎大V叶梓涛的深入长谈。
+
+[《C(8,3)》游戏下载链接](https://yezi.itch.io/c38)
+
+Music in Video are from BimBamBoom:  
+Rainbow High  
+Bright Up  
+Soul Makossa  
+Tokyo Aventure
+
+#### Xichen's Vlog #025 Jerry.树: 取悦自己
+
+![Xichen Vlog 025 Cover](cover/Xichen_Vlog_025_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=aYcr9OGJfDM)
+[Bilibili](https://www.bilibili.com/video/av80414866)
+
+Jerry 说带我感受摇滚乐的魅力，Jerry 还说要取悦自己。2019年11月22日，法兹乐队全国巡演，上海育音堂。
+
+Music in Video are from 法兹乐队:  
+临兵斗者  
+控制
+
+#### Xichen's Vlog #024 Foley with Sandpaper, Slime and Fish
+
+![Xichen Vlog 024 Cover](cover/Xichen_Vlog_024_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=X9AdLHDRKGw)
+[Bilibili](https://www.bilibili.com/video/av77526311)
+
+为了设计某种怪物皮肤材质的声音，我们去 SoundMachine Studio 进行了一次拟音试验，探索了更多的可能性。
+
+Music in Video:  
+BimBamBoom - King & Joker
+
+#### Xichen's Vlog #023 中影基地录 Foley
+
+Xichen's Vlog #023 Foley at State Production Base of China Film Group
+
+![Xichen Vlog 023 Cover](cover/Xichen_Vlog_023_Cover.jpg)
+[YouTube](https://www.youtube.com/watch?v=MhqYJk3bvec)
+[Bilibili](https://www.bilibili.com/video/av76029861)
+
+NExT 快递员千里送话筒，幕后探秘中影基地拟音棚。
+
+Music in Video is from John Wick (Original Motion Picture Soundtrack):  
+Tyler Bates & Joel J. Richard - On The Hunt  
+The Candy Shop Boys - Evil Man Blues
 
 
 
