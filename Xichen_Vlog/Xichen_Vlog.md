@@ -53,6 +53,15 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 
 ---
 
+#### Xichen's Vlog #040 “大众”城市探险
+
+![Xichen Vlog 040 Cover](cover/Xichen_Vlog_040_Cover.jpg)
+
+上海复兴岛废宅，“大众”城市探险。
+
+Music in Video is from artlist.io:  
+Swifts Day by Aquartos
+
 #### Xichen's Vlog #039 道具库房
 
 ![Xichen Vlog 039 Cover](cover/Xichen_Vlog_039_Cover.jpg)
