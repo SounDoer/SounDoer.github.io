@@ -47,7 +47,7 @@
 Website: [SounDoer.com](https://soundoer.com)  
 Weibo: [希辰Xichen](https://weibo.com/soundoer)  
 Bilibili: [希辰Xichen](https://space.bilibili.com/157914767)  
-YouTube: [Xichen Shen](https://www.youtube.com/channel/UCyItXwxXhDPpbD60-4EYhvw)
+YouTube: [Xichen Shen](https://www.youtube.com/c/XichenShen)
 
 Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 
