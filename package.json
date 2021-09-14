@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": "https://github.com/SounDoer/SounDoer.github.io.git",
+  "author": "SounDoer <xichenphoto@gmail.com>",
   "devDependencies": {
     "vuepress": "^1.8.2"
   },
