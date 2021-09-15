@@ -6,7 +6,7 @@ module.exports = {
         sidebar: [
             {
                 title: 'Xichen\'s Vlog',
-                path: '/Xichen_Vlog/Xichen_Vlog.md',
+                path: './Xichen_Vlog/Xichen_Vlog.md',
             }
         ]
     }
