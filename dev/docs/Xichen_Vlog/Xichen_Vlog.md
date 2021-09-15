@@ -66,7 +66,7 @@ Swifts Day by Aquartos
 
 #### Xichen's Vlog #039 道具库房
 
-![Xichen Vlog 039 Cover](cover/Xichen_Vlog_039_Cover.jpg)
+![Xichen Vlog 039 Cover](./cover/Xichen_Vlog_039_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=1pO5mkMhckw)
 [Bilibili](https://www.bilibili.com/video/BV1Zq4y1T72y)
 
@@ -74,7 +74,7 @@ Swifts Day by Aquartos
 
 #### Xichen's Vlog #038 Foley with Air
 
-![Xichen Vlog 038 Cover](cover/Xichen_Vlog_038_Cover.jpg)
+![Xichen Vlog 038 Cover](./cover/Xichen_Vlog_038_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=1tl_UAWcMfc)
 [Bilibili](https://www.bilibili.com/video/BV1bf4y1A72d)
 
@@ -82,7 +82,7 @@ Swifts Day by Aquartos
 
 #### Xichen's Vlog #037 2021 Global Game Jam《剑入禅境》开发纪录
 
-![Xichen Vlog 037 Cover](cover/Xichen_Vlog_037_Cover.jpg)
+![Xichen Vlog 037 Cover](./cover/Xichen_Vlog_037_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=tlYmEOBl11g)
 [Bilibili](https://www.bilibili.com/video/BV16v411s7i6)
 
@@ -96,7 +96,7 @@ Music from Crouching Tiger, Hidden Dragon OST by Tan Dun, Yo-Yo Ma, Xie-yang Che
 
 Xichen's Vlog #036 My Drone Flying above The Bund
 
-![Xichen Vlog 036 Cover](cover/Xichen_Vlog_036_Cover.jpg)
+![Xichen Vlog 036 Cover](./cover/Xichen_Vlog_036_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=AzDUX9r7Ejc)
 [Bilibili](https://www.bilibili.com/video/BV1oK4y1j72V)
 
@@ -109,7 +109,7 @@ Music in Video:
 
 Xichen's Vlog #035 Abandoned Metre-Gauge Railways in Xujiadu, Yunnan
 
-![Xichen Vlog 035 Cover](cover/Xichen_Vlog_035_Cover.jpg)
+![Xichen Vlog 035 Cover](./cover/Xichen_Vlog_035_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=PaYudIfVo1I)
 [Bilibili](https://www.bilibili.com/video/bv1iK4y1h7Sa)
 
@@ -128,7 +128,7 @@ Music in Video:
 
 Xichen's Vlog #034 Rural Fair in Qinglong Town, Yunnan
 
-![Xichen Vlog 034 Cover](cover/Xichen_Vlog_034_Cover.jpg)
+![Xichen Vlog 034 Cover](./cover/Xichen_Vlog_034_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=xkdf7FnKPpI)
 [Bilibili](https://www.bilibili.com/video/BV145411j7KE)
 
@@ -141,7 +141,7 @@ Music in Video:
 
 Xichen's Vlog #033 Yunnan Fuxian Lake
 
-![Xichen Vlog 033 Cover](cover/Xichen_Vlog_033_Cover.jpg)
+![Xichen Vlog 033 Cover](./cover/Xichen_Vlog_033_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=fUuDUrfdj1Y)
 [Bilibili](https://www.bilibili.com/video/BV1HK4y1h7F5)
 
@@ -155,7 +155,7 @@ Cautious Fog by Harbor Fate
 
 #### Xichen's Vlog #032 快乐合成器
 
-![Xichen Vlog 032 Cover](cover/Xichen_Vlog_032_Cover.jpg)
+![Xichen Vlog 032 Cover](./cover/Xichen_Vlog_032_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ov-9Wer4KCc)
 [Bilibili](https://www.bilibili.com/video/BV16h411X7u7)
 
@@ -168,7 +168,7 @@ Normalize by Stanley Gurvich
 
 Xichen's Vlog #031 Moonlight on Dongtan, Shanghai
 
-![Xichen Vlog 031 Cover](cover/Xichen_Vlog_031_Cover.jpg)
+![Xichen Vlog 031 Cover](./cover/Xichen_Vlog_031_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=6liCwO19ZFY)
 [Bilibili](https://www.bilibili.com/video/BV1Qa4y1L7TC)
 
@@ -184,7 +184,7 @@ Music in Video:
 
 #### Xichen's Vlog #030 侯老师开课啦
 
-![Xichen Vlog 030 Cover](cover/Xichen_Vlog_030_Cover.jpg)
+![Xichen Vlog 030 Cover](./cover/Xichen_Vlog_030_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ufFtdt9wKek)
 [Bilibili](https://www.bilibili.com/video/bv1DT4y1j7qJ)
 
@@ -195,7 +195,7 @@ Grumpy Snowflake by Peter Spacey
 
 #### Xichen's Vlog #029 Audio Designer as Game Developer
 
-![Xichen Vlog 029 Cover](cover/Xichen_Vlog_029_Cover.jpg)
+![Xichen Vlog 029 Cover](./cover/Xichen_Vlog_029_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=WIe9NFA_ZRA)
 [Bilibili](https://www.bilibili.com/video/BV1Za4y1i7Rd)
 
@@ -208,7 +208,7 @@ Better Now Instrumental Version by These Nuts
 
 Xichen's Vlog #028 A Special Warner Bros. Studio Tour
 
-![Xichen Vlog 028 Cover](cover/Xichen_Vlog_028_Cover.jpg)
+![Xichen Vlog 028 Cover](./cover/Xichen_Vlog_028_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=PRqeI3vFDo0)
 [Bilibili](https://www.bilibili.com/video/BV1P54y1R73e)
 
@@ -224,7 +224,7 @@ Diamond by The Delorean
 
 #### Xichen's Vlog #027 突突突突突
 
-![Xichen Vlog 027 Cover](cover/Xichen_Vlog_027_Cover.jpg)
+![Xichen Vlog 027 Cover](./cover/Xichen_Vlog_027_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=P0d5BbLGoxA)
 [Bilibili](https://www.bilibili.com/video/av93662654)
 
@@ -247,7 +247,7 @@ Do the Math by SLPSTRM
 
 #### Xichen's Vlog #026 NExT Game Jam
 
-![Xichen Vlog 026 Cover](cover/Xichen_Vlog_026_Cover.jpg)
+![Xichen Vlog 026 Cover](./cover/Xichen_Vlog_026_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=yDq4LN-Dubw)
 [Bilibili](https://www.bilibili.com/video/av80837219)
 
@@ -263,7 +263,7 @@ Tokyo Aventure
 
 #### Xichen's Vlog #025 Jerry.树: 取悦自己
 
-![Xichen Vlog 025 Cover](cover/Xichen_Vlog_025_Cover.jpg)
+![Xichen Vlog 025 Cover](./cover/Xichen_Vlog_025_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=aYcr9OGJfDM)
 [Bilibili](https://www.bilibili.com/video/av80414866)
 
@@ -275,7 +275,7 @@ Music in Video is from 法兹乐队:
 
 #### Xichen's Vlog #024 Foley with Sandpaper, Slime and Fish
 
-![Xichen Vlog 024 Cover](cover/Xichen_Vlog_024_Cover.jpg)
+![Xichen Vlog 024 Cover](./cover/Xichen_Vlog_024_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=X9AdLHDRKGw)
 [Bilibili](https://www.bilibili.com/video/av77526311)
 
@@ -288,7 +288,7 @@ King & Joker
 
 Xichen's Vlog #023 Foley at State Production Base of China Film Group
 
-![Xichen Vlog 023 Cover](cover/Xichen_Vlog_023_Cover.jpg)
+![Xichen Vlog 023 Cover](./cover/Xichen_Vlog_023_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=MhqYJk3bvec)
 [Bilibili](https://www.bilibili.com/video/av76029861)
 
@@ -300,7 +300,7 @@ The Candy Shop Boys - Evil Man Blues
 
 #### Xichen's Vlog #022 去日本看 STING
 
-![Xichen Vlog 022 Cover](cover/Xichen_Vlog_022_Cover.jpg)
+![Xichen Vlog 022 Cover](./cover/Xichen_Vlog_022_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=byYNBNPLJp4)
 [Bilibili](https://www.bilibili.com/video/av75122416)
 
@@ -312,7 +312,7 @@ Englishman In New York
 
 #### Xichen's Vlog #021 我是怎么用 GoPro 拍 Vlog 的
 
-![Xichen Vlog 021 Cover](cover/Xichen_Vlog_021_Cover.jpg)
+![Xichen Vlog 021 Cover](./cover/Xichen_Vlog_021_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=HWN2qGKf31s)
 [Bilibili](https://www.bilibili.com/video/av66316226)
 
@@ -331,7 +331,7 @@ Phonebroke by Fresh
 
 Xichen's Vlog #020 Field Recording: Coniferous Forest Sound in Xinjiang China
 
-![Xichen Vlog 020 Cover](cover/Xichen_Vlog_020_Cover.jpg)
+![Xichen Vlog 020 Cover](./cover/Xichen_Vlog_020_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=47z_jKrkdJY)
 [Bilibili](https://www.bilibili.com/video/av66256999)
 
@@ -363,7 +363,7 @@ By 萨克部落
 
 Xichen's Vlog #019 Field Recording: Water Sound in Mountains
 
-![Xichen Vlog 019 Cover](cover/Xichen_Vlog_019_Cover.jpg)
+![Xichen Vlog 019 Cover](./cover/Xichen_Vlog_019_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=K6uWAv9lURM)
 [Bilibili](https://www.bilibili.com/video/av56849952)
 
@@ -389,7 +389,7 @@ Possible Light by Ziv Moran
 
 Xichen's Vlog #018 Field Recording: Up to Hill, Down to Cave.
 
-![Xichen Vlog 018 Cover](cover/Xichen_Vlog_018_Cover.jpg)
+![Xichen Vlog 018 Cover](./cover/Xichen_Vlog_018_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=DaO_awlh7p8)
 [Bilibili](https://www.bilibili.com/video/av53560078)
 
@@ -411,7 +411,7 @@ Giving It All by Be Still the Earth
 
 #### Xichen's Vlog #017 长广牛头山
 
-![Xichen Vlog 017 Cover](cover/Xichen_Vlog_017_Cover.jpg)
+![Xichen Vlog 017 Cover](./cover/Xichen_Vlog_017_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=l0mmGSShtkQ)
 [Bilibili](https://www.bilibili.com/video/BV1nb41157yw)
 
@@ -424,7 +424,7 @@ Holding Back by Michael FK (Embers)
 
 #### Xichen's Vlog #016 游戏音频设计师需要会编程吗？
 
-![Xichen Vlog 016 Cover](cover/Xichen_Vlog_016_Cover.jpg)
+![Xichen Vlog 016 Cover](./cover/Xichen_Vlog_016_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ptcft3HHxuY)
 [Bilibili](https://www.bilibili.com/video/BV1Wb411E7uC)
 
@@ -435,7 +435,7 @@ Celebrate Your Heart by Maytal Michaeli (Celebrate Your Heart)
 
 #### Xichen's Vlog #015 SHVFS 声音设计专业 INDUSTRY PANEL
 
-![Xichen Vlog 015 Cover](cover/Xichen_Vlog_015_Cover.jpg)
+![Xichen Vlog 015 Cover](./cover/Xichen_Vlog_015_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=eCQGv5dF-1E)
 [Bilibili](https://www.bilibili.com/video/BV1Gb411b7Lz)
 
@@ -447,7 +447,7 @@ Through the Fire by Michael Shynes (Simply)
 
 #### Xichen's Vlog #014 我是怎么用手机拍 Vlog 的
 
-![Xichen Vlog 014 Cover](cover/Xichen_Vlog_014_Cover.jpg)
+![Xichen Vlog 014 Cover](./cover/Xichen_Vlog_014_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=vTfSCcXA_Cg)
 [Bilibili](https://www.bilibili.com/video/BV11b411t7Mm)
 
@@ -459,7 +459,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #013 海边录音航拍大片
 
-![Xichen Vlog 013 Cover](cover/Xichen_Vlog_013_Cover.jpg)
+![Xichen Vlog 013 Cover](./cover/Xichen_Vlog_013_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=1u45bHwRDZU)
 [Bilibili](https://www.bilibili.com/video/BV1nt411s78s)
 
@@ -467,7 +467,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #012 八点三刻人声乐团
 
-![Xichen Vlog 012 Cover](cover/Xichen_Vlog_012_Cover.jpg)
+![Xichen Vlog 012 Cover](./cover/Xichen_Vlog_012_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=vGtvXadxBDI)
 [Bilibili](https://www.bilibili.com/video/BV1at411r7ZU)
 
@@ -475,7 +475,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #011 福建泉州行
 
-![Xichen Vlog 011 Cover](cover/Xichen_Vlog_011_Cover.jpg)
+![Xichen Vlog 011 Cover](./cover/Xichen_Vlog_011_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=ZqQQahIvAmw)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7cs)
 
@@ -483,7 +483,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #010 Deity V-Mic D3 Pro 测评
 
-![Xichen Vlog 010 Cover](cover/Xichen_Vlog_010_Cover.jpg)
+![Xichen Vlog 010 Cover](./cover/Xichen_Vlog_010_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=Q6K6ibOP8uY)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7aQ)
 
@@ -491,7 +491,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #009 Wwise Tour 上海站
 
-![Xichen Vlog 009 Cover](cover/Xichen_Vlog_009_Cover.jpg)
+![Xichen Vlog 009 Cover](./cover/Xichen_Vlog_009_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=0KGJlBX0WmY)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7bs)
 
@@ -499,7 +499,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #008 走马观花国际乐展
 
-![Xichen Vlog 008 Cover](cover/Xichen_Vlog_008_Cover.jpg)
+![Xichen Vlog 008 Cover](./cover/Xichen_Vlog_008_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=7qTj6vV0FO0)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7nq)
 
@@ -507,7 +507,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #007 稻子熟了
 
-![Xichen Vlog 007 Cover](cover/Xichen_Vlog_007_Cover.jpg)
+![Xichen Vlog 007 Cover](./cover/Xichen_Vlog_007_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=A-ycWHz7gK0)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7pe)
 
@@ -515,7 +515,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #006 飞了一趟重庆
 
-![Xichen Vlog 006 Cover](cover/Xichen_Vlog_006_Cover.jpg)
+![Xichen Vlog 006 Cover](./cover/Xichen_Vlog_006_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=VKSAwK3vguY)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7jb)
 
@@ -523,7 +523,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #005 腾格里沙漠徒步行
 
-![Xichen Vlog 005 Cover](cover/Xichen_Vlog_005_Cover.jpg)
+![Xichen Vlog 005 Cover](./cover/Xichen_Vlog_005_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=prLOUwkSqmY)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r77N)
 
@@ -531,7 +531,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #004 枸杞岛录音之行
 
-![Xichen Vlog 004 Cover](cover/Xichen_Vlog_004_Cover.jpg)
+![Xichen Vlog 004 Cover](./cover/Xichen_Vlog_004_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=HW36_goK7D4)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7UJ)
 
@@ -539,7 +539,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #003 黄山徒步行
 
-![Xichen Vlog 003 Cover](cover/Xichen_Vlog_003_Cover.jpg)
+![Xichen Vlog 003 Cover](./cover/Xichen_Vlog_003_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=YZjncPMuZIM)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7De)
 
@@ -547,7 +547,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #002 一次非严肃的 Field Recording Trip
 
-![Xichen Vlog 002 Cover](cover/Xichen_Vlog_002_Cover.jpg)
+![Xichen Vlog 002 Cover](./cover/Xichen_Vlog_002_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=o0qohtKzXHA)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7zW)
 
@@ -555,7 +555,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #001 用什么设备录声音
 
-![Xichen Vlog 001 Cover](cover/Xichen_Vlog_001_Cover.jpg)
+![Xichen Vlog 001 Cover](./cover/Xichen_Vlog_001_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=g_dcNFp1xzU)
 [Bilibili](https://www.bilibili.com/video/BV1Yt411r7B8)
 
@@ -563,7 +563,7 @@ By My Side by K. Solis
 
 #### Xichen's Vlog #000 From SounDoer to 希辰
 
-![Xichen Vlog 000 Cover](cover/Xichen_Vlog_000_Cover.jpg)
+![Xichen Vlog 000 Cover](./cover/Xichen_Vlog_000_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=YPNFKwR6OGc)
 [Bilibili](https://www.bilibili.com/video/BV1ht411r7k5)
 
