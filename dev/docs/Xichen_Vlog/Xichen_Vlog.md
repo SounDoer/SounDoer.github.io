@@ -55,7 +55,7 @@ Font 喜鹊聚珍体 in Video is from [喜鹊造字](https://www.luckytype.com)
 
 #### Xichen's Vlog #040 “大众”城市探险
 
-![Xichen Vlog 040 Cover](cover/Xichen_Vlog_040_Cover.jpg)
+![Xichen Vlog 040 Cover](./cover/Xichen_Vlog_040_Cover.jpg)
 [YouTube](https://www.youtube.com/watch?v=_GJcpv2FO5w)
 [Bilibili](https://www.bilibili.com/video/BV1Sq4y1Z7yA)
 
