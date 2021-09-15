@@ -3,6 +3,11 @@ module.exports = {
     description: 'SounDoer.com',
 
     themeConfig: {
-        sidebar: 'auto'
+        sidebar: [
+            {
+                title: 'Xichen\'s Vlog',
+                path: '/Xichen_Vlog/Xichen_Vlog.md',
+            }
+        ]
     }
 }
