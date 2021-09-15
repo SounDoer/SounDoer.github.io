@@ -1,4 +1,8 @@
 module.exports = {
     title: 'Xichen Shen',
-    description: 'SounDoer.com'
+    description: 'SounDoer.com',
+
+    themeConfig: {
+        sidebar: 'auto'
+    }
 }
