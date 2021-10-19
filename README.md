@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 4
+---
+
 Xichen Shen
 
 Apr 2019 - Present, Audio Designer at NExT Studios  
