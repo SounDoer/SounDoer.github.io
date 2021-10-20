@@ -43,23 +43,31 @@ Sep 2009 - June 2013
 
 **Presentation & Research**
 
+A Practice of Music as Level Design  
+A presentation at [Wwise Interactive Music Symposium 2021 China](https://info.audiokinetic.com/zh-cn/wwise-interactive-music-symposium-2021-china)  
+2021.6.26
+
+Audio Designer as Game Developer  
+A presentation for students in major of Digital Media Technology  
+Shanghai Film Academy, Shanghai University  
+2021.4.23
+
 What will the Next Gen of Game Audio Design be like?  
-A tutorial for The 8th Conference on Sound and Music Technology (CSMT2020)  
+A tutorial at [The 8th Conference on Sound and Music Technology (CSMT2020)](http://www.csmcw-csmt.cn/csmt2020.html)  
 North University of China  
 2020.11.6
 
 Intro to Game Audio Design  
-A lecture for students in major of Digital Media Technology  
+A presentation for students in major of Digital Media Technology  
 Shanghai Film Academy, Shanghai University  
 2019.5.8
 
 Game Sound Design with Audio Middleware  
-A presentation for game audio team  
-XinDong Games  
+A presentation at XinDong Games  
 2018.9.20
 
 The Sound Of Far Cry 5  
-A lecture for junior students in major of Digital Media Technology  
+A presentation for students in major of Digital Media Technology  
 Shanghai Film Academy, Shanghai University  
 2018.5.23
 
@@ -74,22 +82,22 @@ A Paper in collaboration with Zhang Ying, Associate Professor of Shanghai Film A
 DOI: [10.15943/j.cnki.fdxb-jns.2017.02.010](https://www.cnki.net/kcms/doi/10.15943/j.cnki.fdxb-jns.2017.02.010.html)
 
 Intro to Game Sound Design  
-A lecture for students in major of Sound Design for Visual Media  
+A presentation for students in major of Sound Design for Visual Media  
 Shanghai Vancouver Film School  
 2017.4.28
 
 Intro to Game Sound Design  
-A lecture for junior students in major of Digital Media Technology  
+A presentation for students in major of Digital Media Technology  
 Shanghai Film Academy, Shanghai University  
 2017.4.11
 
 Intro to Game Sound Design  
-A lecture for sophomore students in major of Music Design & Technology  
+A presentation for students in major of Music Design & Technology  
 Shanghai Conservatory of Music  
 2016.11.15
 
 Intro to Game Sound Design  
-A lecture for sophomore students in major of Digital Media Technology  
+A presentation for students in major of Digital Media Technology  
 Shanghai Film Academy, Shanghai University  
 2016.11.9
 
