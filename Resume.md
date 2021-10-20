@@ -66,7 +66,7 @@ Game Sound Design with Audio Middleware
 A presentation at XinDong Games  
 2018.9.20
 
-The Sound Of Far Cry 5  
+The Sound of Far Cry 5  
 A presentation for students in major of Digital Media Technology  
 Shanghai Film Academy, Shanghai University  
 2018.5.23
