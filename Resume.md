@@ -16,7 +16,7 @@ Website: [SounDoer.com](https://soundoer.com/)
 
 Audio Designer at Tencent NExT Studios  
 Apr 2019 – Present  
-- Synced Off Planet, WIP
+- [Synced Off Planet](https://www.syncedoffplanet.com)
 
 Audio Designer at Ubisoft Shanghai  
 Aug 2015 – Apr 2019  
@@ -42,6 +42,11 @@ Bachelor of Engineering - Film & Television Engineering
 Sep 2009 - June 2013
 
 **Presentation & Research**
+
+Audio Design Pipeline of Realtime Cinematic in Object Based Audio  
+A presentation for Film New Tech Series  
+Shanghai Film Academy, Shanghai University  
+2022.3.29
 
 A Practice of Music as Level Design  
 A presentation at [Wwise Interactive Music Symposium 2021 China](https://info.audiokinetic.com/zh-cn/wwise-interactive-music-symposium-2021-china)  
