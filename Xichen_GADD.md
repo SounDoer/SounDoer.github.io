@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Xichen's Game Audio Design Document
-nav_order: 2
+nav_order: 11
 permalink: /Xichen_GADD/
 ---
