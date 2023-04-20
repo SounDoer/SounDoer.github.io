@@ -4,33 +4,33 @@ title: Resume
 nav_order: 21
 ---
 
-**Xichen Shen**  
-**沈希辰**
-
-媒体属性的技术工作者，理想主义的内容创作者。
+### Xichen Shen 沈希辰
 
 Email: xichenphoto@gmail.com / xichen@soundoer.com  
 Website: [SounDoer.com](https://soundoer.com/)
 
-**Experience**
+### Experience
 
 Audio Designer at Tencent NExT Studios  
 Apr 2019 – Present  
-- [Synced Off Planet](https://www.syncedoffplanet.com)
+- [Synced Off Planet](https://www.syncedthegame.com/)
 
 Audio Designer at Ubisoft Shanghai  
 Aug 2015 – Apr 2019  
 - [Far Cry New Dawn](https://en.wikipedia.org/wiki/Far_Cry_New_Dawn)
-- [Far Cry 5 DLC: Lost On Mars](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)
+![Game_FarCryNewDawn](./asset/Game_FarCryNewDawn.jpg)
+- [Far Cry 5 DLC: Lost On Mars](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)  
 - [Far Cry 5 DLC: Hours of Darkness](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)
 - [Far Cry 5](https://en.wikipedia.org/wiki/Far_Cry_5)
+![Game_FarCry5](./asset/Game_FarCry5.jpg)
 - [Far Cry Primal](https://en.wikipedia.org/wiki/Far_Cry_Primal)
+![Game_FarCryPrimal](./asset/Game_FarCryPrimal.jpg)
 
 Co-Founder & Sound Designer at Micat Studio  
 Shanghai Huaqing Cultural Communication Co., Ltd.  
 Mar 2013 - Aug 2015
 
-**Education**
+### Education
 
 Shanghai Vancouver Film School  
 Sound Design for Visual Media  
@@ -41,7 +41,7 @@ School of Film and Television (Shanghai Film Academy)
 Bachelor of Engineering - Film & Television Engineering  
 Sep 2009 - June 2013
 
-**Presentation & Research**
+### Presentation & Research
 
 Audio Design Pipeline of Realtime Cinematic in Object Based Audio  
 A presentation for Film New Tech Series  
