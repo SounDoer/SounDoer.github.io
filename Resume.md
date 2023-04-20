@@ -17,14 +17,14 @@ Apr 2019 – Present
 
 Audio Designer at Ubisoft Shanghai  
 Aug 2015 – Apr 2019  
-- [Far Cry New Dawn](https://en.wikipedia.org/wiki/Far_Cry_New_Dawn)
-![Game_FarCryNewDawn](./asset/Game_FarCryNewDawn.jpg)
+- [Far Cry New Dawn](https://en.wikipedia.org/wiki/Far_Cry_New_Dawn)  
+![Game_FarCryNewDawn](./asset/Game_FarCryNewDawn_640.jpg)
 - [Far Cry 5 DLC: Lost On Mars](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)  
 - [Far Cry 5 DLC: Hours of Darkness](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)
-- [Far Cry 5](https://en.wikipedia.org/wiki/Far_Cry_5)
-![Game_FarCry5](./asset/Game_FarCry5.jpg)
-- [Far Cry Primal](https://en.wikipedia.org/wiki/Far_Cry_Primal)
-![Game_FarCryPrimal](./asset/Game_FarCryPrimal.jpg)
+- [Far Cry 5](https://en.wikipedia.org/wiki/Far_Cry_5)  
+![Game_FarCry5](./asset/Game_FarCry5_640.jpg)
+- [Far Cry Primal](https://en.wikipedia.org/wiki/Far_Cry_Primal)  
+![Game_FarCryPrimal](./asset/Game_FarCryPrimal_640.jpg)
 
 Co-Founder & Sound Designer at Micat Studio  
 Shanghai Huaqing Cultural Communication Co., Ltd.  
