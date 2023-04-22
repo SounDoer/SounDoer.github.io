@@ -8,14 +8,14 @@ permalink: /
 ## Xichen Shen 沈希辰
 
 Email: xichenphoto@gmail.com / xichen@soundoer.com  
-Website: [SounDoer.com](https://soundoer.com/)
+Website: [SounDoer.com](https://soundoer.com)
 
 ## Experience
 
 Audio Designer at Tencent NExT Studios  
 Apr 2019 – Present  
 
-- [SYNCED](https://www.syncedthegame.com/)  
+- [SYNCED](https://www.syncedthegame.com)  
 A PvPvE co-op looter shooter game in development.  
 ![Game_Synced](./asset/Game_Synced_320.jpg)
 
@@ -36,7 +36,7 @@ An action adventure FPS game for Windows, PlayStation 4 and Xbox One released in
 An action adventure game for Windows, PlayStation 4 and Xbox One released in 2016.
 ![Game_FarCryPrimal](./asset/Game_FarCryPrimal_320.jpg)
 
-Co-Founder & Sound Designer at Micat Studio  
+Co-Founder at Micat Studio  
 Shanghai Huaqing Cultural Communication Co., Ltd.  
 Mar 2013 - Aug 2015
 
@@ -50,6 +50,14 @@ Shanghai University
 School of Film and Television (Shanghai Film Academy)  
 Bachelor of Engineering - Film & Television Engineering  
 Sep 2009 - June 2013
+
+## Project
+
+[Xichen's Game Audio Design Document](http://soundoer.com/Xichen_GADD)  
+以专题文章的形式分享我对游戏音频设计的思考与探索，持续更新中。
+
+[Xichen's Vlog](http://soundoer.com/Xichen_VLOG)  
+泛主题的影像记录，持续更新中。
 
 ## Presentation & Research
 
