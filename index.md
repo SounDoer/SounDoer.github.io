@@ -14,18 +14,26 @@ Website: [SounDoer.com](https://soundoer.com/)
 
 Audio Designer at Tencent NExT Studios  
 Apr 2019 – Present  
-- [Synced Off Planet](https://www.syncedthegame.com/)  
+
+- [SYNCED](https://www.syncedthegame.com/)  
+A PvPvE co-op looter shooter game in development.  
 ![Game_Synced](./asset/Game_Synced_320.jpg)
 
 Audio Designer at Ubisoft Shanghai  
 Aug 2015 – Apr 2019  
+
 - [Far Cry New Dawn](https://en.wikipedia.org/wiki/Far_Cry_New_Dawn)  
+An action adventure FPS game for Windows, PlayStation 4 and Xbox One released in 2019.  
 ![Game_FarCryNewDawn](./asset/Game_FarCryNewDawn_320.jpg)
-- [Far Cry 5 DLC: Lost On Mars](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)  
-- [Far Cry 5 DLC: Hours of Darkness](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)
+
 - [Far Cry 5](https://en.wikipedia.org/wiki/Far_Cry_5)  
+[Far Cry 5 DLC: Hours of Darkness](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)  
+[Far Cry 5 DLC: Lost On Mars](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)  
+An action adventure FPS game for Windows, PlayStation 4 and Xbox One released in 2018. 
 ![Game_FarCry5](./asset/Game_FarCry5_320.jpg)
+
 - [Far Cry Primal](https://en.wikipedia.org/wiki/Far_Cry_Primal)  
+An action adventure game for Windows, PlayStation 4 and Xbox One released in 2016.
 ![Game_FarCryPrimal](./asset/Game_FarCryPrimal_320.jpg)
 
 Co-Founder & Sound Designer at Micat Studio  
