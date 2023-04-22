@@ -13,7 +13,8 @@ Website: [SounDoer.com](https://soundoer.com/)
 
 Audio Designer at Tencent NExT Studios  
 Apr 2019 – Present  
-- [Synced Off Planet](https://www.syncedthegame.com/)
+- [Synced Off Planet](https://www.syncedthegame.com/)  
+![Game_Synced](./asset/Game_Synced_320.jpg)
 
 Audio Designer at Ubisoft Shanghai  
 Aug 2015 – Apr 2019  
