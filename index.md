@@ -17,7 +17,7 @@ Apr 2019 – Present
 
 - [SYNCED](https://www.syncedthegame.com)  
 A PvPvE co-op looter shooter game in development.  
-![Game_Synced](./asset/Game_Synced_320.jpg)
+![Game_Synced](./assets/SYNCED_FIN_PNG_1280.png)
 
 Audio Designer at Ubisoft Shanghai  
 Aug 2015 – Apr 2019  
