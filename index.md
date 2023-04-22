@@ -24,17 +24,17 @@ Aug 2015 – Apr 2019
 
 - [Far Cry New Dawn](https://en.wikipedia.org/wiki/Far_Cry_New_Dawn)  
 An action adventure FPS game for Windows, PlayStation 4 and Xbox One released in 2019.  
-![Game_FarCryNewDawn](./asset/Game_FarCryNewDawn_320.jpg)
+![Game_FarCryNewDawn](./assets/FarCryNewDawn_FIN_PNG_1280.png)
 
 - [Far Cry 5](https://en.wikipedia.org/wiki/Far_Cry_5)  
 [Far Cry 5 DLC: Hours of Darkness](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)  
 [Far Cry 5 DLC: Lost On Mars](https://en.wikipedia.org/wiki/Far_Cry_5#Downloadable_content)  
 An action adventure FPS game for Windows, PlayStation 4 and Xbox One released in 2018. 
-![Game_FarCry5](./asset/Game_FarCry5_320.jpg)
+![Game_FarCry5](./assets/FarCry5_FIN_PNG_1280.png)
 
 - [Far Cry Primal](https://en.wikipedia.org/wiki/Far_Cry_Primal)  
 An action adventure game for Windows, PlayStation 4 and Xbox One released in 2016.
-![Game_FarCryPrimal](./asset/Game_FarCryPrimal_320.jpg)
+![Game_FarCryPrimal](./assets/FarCryPrimal_FIN_PNG_1280.png)
 
 Co-Founder at Micat Studio  
 Shanghai Huaqing Cultural Communication Co., Ltd.  
