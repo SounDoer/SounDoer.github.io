@@ -51,7 +51,7 @@ School of Film and Television (Shanghai Film Academy)
 Bachelor of Engineering - Film & Television Engineering  
 Sep 2009 - June 2013
 
-## Project
+## Personal Project
 
 [Xichen's Game Audio Design Document](http://soundoer.com/Xichen_GADD)  
 以专题文章的形式分享我对游戏音频设计的思考与探索，持续更新中。
@@ -59,7 +59,12 @@ Sep 2009 - June 2013
 [Xichen's Vlog](http://soundoer.com/Xichen_VLOG)  
 泛主题的影像记录，持续更新中。
 
-## Presentation & Research
+## Works / Presentation / Research
+
+[The Shape of Time 时间的形状](https://yezi.itch.io/time)  
+A mini game made by Zitao Ye co-op as sound designer  
+NExT Studios Game+ Project  
+2023.1
 
 Audio Design Pipeline of Realtime Cinematic in Object Based Audio  
 A presentation for Film New Tech Series  
@@ -75,10 +80,20 @@ A presentation for students in major of Digital Media Technology
 Shanghai Film Academy, Shanghai University  
 2021.4.23
 
+[Sword Zen 劍入禪境](https://yezi.itch.io/sz)  
+A mini game co-op with Zitao Ye  
+2021 Global Game Jam  
+2021.1
+
 What will the Next Gen of Game Audio Design be like?  
 A tutorial at [The 8th Conference on Sound and Music Technology (CSMT2020)](http://www.csmcw-csmt.cn/csmt2020.html)  
 North University of China  
 2020.11.6
+
+[C(8,3)](https://yezi.itch.io/c38)  
+A mini game made in 48h co-op with Zitao Ye  
+NExT Studios 2019 Game Jam  
+2019.12
 
 Intro to Game Audio Design  
 A presentation for students in major of Digital Media Technology  
