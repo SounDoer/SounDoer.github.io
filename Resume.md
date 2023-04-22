@@ -1,15 +1,9 @@
----
-layout: default
-title: Resume
-nav_order: 21
----
-
-### Xichen Shen 沈希辰
+## Xichen Shen 沈希辰
 
 Email: xichenphoto@gmail.com / xichen@soundoer.com  
 Website: [SounDoer.com](https://soundoer.com/)
 
-### Experience
+## Experience
 
 Audio Designer at Tencent NExT Studios  
 Apr 2019 – Present  
@@ -31,7 +25,7 @@ Co-Founder & Sound Designer at Micat Studio
 Shanghai Huaqing Cultural Communication Co., Ltd.  
 Mar 2013 - Aug 2015
 
-### Education
+## Education
 
 Shanghai Vancouver Film School  
 Sound Design for Visual Media  
@@ -42,7 +36,7 @@ School of Film and Television (Shanghai Film Academy)
 Bachelor of Engineering - Film & Television Engineering  
 Sep 2009 - June 2013
 
-### Presentation & Research
+## Presentation & Research
 
 Audio Design Pipeline of Realtime Cinematic in Object Based Audio  
 A presentation for Film New Tech Series  
@@ -106,5 +100,3 @@ Intro to Game Sound Design
 A presentation for students in major of Digital Media Technology  
 Shanghai Film Academy, Shanghai University  
 2016.11.9
-
-***
