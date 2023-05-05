@@ -86,7 +86,7 @@ A mini game co-op with Zitao Ye
 2021.1
 
 What will the Next Gen of Game Audio Design be like?  
-A tutorial at [The 8th Conference on Sound and Music Technology (CSMT2020)](http://www.csmcw-csmt.cn/csmt2020.html)  
+A tutorial at [The 8th Conference on Sound and Music Technology (CSMT2020)](https://www.csmcw-csmt.cn/csmt2020.html)  
 North University of China  
 2020.11.6
 
@@ -133,6 +133,11 @@ Intro to Game Sound Design
 A presentation for students in major of Music Design & Technology  
 Shanghai Conservatory of Music  
 2016.11.15
+
+From Ambisonics to Binaural: Research of VR Film Sound Production Method  
+A presentation at [The 4th Conference on Sound and Music Technology (CSMT2016)](https://www.csmcw-csmt.cn/csmt2016.html) collaboration with Zhang Ying, Associate Professor of Shanghai Film Academy, Shanghai University  
+Nanjing University of Posts and Telecommunications  
+2016.11.12
 
 Intro to Game Sound Design  
 A presentation for students in major of Digital Media Technology  
