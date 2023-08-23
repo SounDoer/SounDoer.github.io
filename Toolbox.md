@@ -27,4 +27,7 @@ nav_exclude: true
     - [Reaper](https://www.reaper.fm)
     - [Pro Tools](https://www.avid.com/pro-tools)
 
+OBS
+Advanced Renamer
+
 ***
