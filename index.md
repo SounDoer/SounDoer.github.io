@@ -12,28 +12,33 @@ Website: [SounDoer.com](https://soundoer.com)
 
 ## Experience
 
-Audio Designer at Tencent NExT Studios  
-Apr 2019 – Present  
+Lead Audio Designer at Hypergryph  
+Aug 2023 - Present  
+
+- Unannounced project working in progress...
+
+Senior Audio Designer at Tencent NExT Studios  
+Apr 2019 – Aug 2023  
 
 - [SYNCED](https://www.syncedthegame.com)  
-A PvPvE co-op looter shooter game in development.  
+A PvPvE co-op looter shooter game on Windows, PlayStation 5 and Xbox Series X&S released in 2023.  
 ![Game_Synced](./assets/SYNCED_FIN_PNG_1280.png)
 
 Audio Designer at Ubisoft Shanghai  
 Aug 2015 – Apr 2019  
 
 - [Far Cry New Dawn](https://www.ubisoft.com/en-us/game/far-cry/new-dawn)  
-An action adventure FPS game for Windows, PlayStation 4 and Xbox One released in 2019.  
+An action adventure FPS game on Windows, PlayStation 4 and Xbox One released in 2019.  
 ![Game_FarCryNewDawn](./assets/FarCryNewDawn_FIN_PNG_1280.png)
 
 - [Far Cry 5](https://www.ubisoft.com/en-us/game/far-cry/far-cry-5)  
 [Far Cry 5 DLC: Hours of Darkness](https://www.ubisoft.com/en-us/game/far-cry/far-cry-5#58nAYWr7wA8hcfzLZs0mne)  
 [Far Cry 5 DLC: Lost On Mars](https://www.ubisoft.com/en-us/game/far-cry/far-cry-5#58nAYWr7wA8hcfzLZs0mne)  
-An action adventure FPS game for Windows, PlayStation 4 and Xbox One released in 2018. 
+An action adventure FPS game on Windows, PlayStation 4 and Xbox One released in 2018.  
 ![Game_FarCry5](./assets/FarCry5_FIN_PNG_1280.png)
 
 - [Far Cry Primal](https://www.ubisoft.com/en-us/game/far-cry/far-cry-primal)  
-An action adventure game for Windows, PlayStation 4 and Xbox One released in 2016.
+An action adventure game on Windows, PlayStation 4 and Xbox One released in 2016.  
 ![Game_FarCryPrimal](./assets/FarCryPrimal_FIN_PNG_1280.png)
 
 Co-Founder at Micat Studio  
