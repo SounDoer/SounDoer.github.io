@@ -66,6 +66,11 @@ Sep 2009 - June 2013
 
 ## Works / Presentation / Research
 
+A Research of Film Sound Auralization in Virtual Production  
+A journal article in collaboration with Zhang Ying, Associate Professor of Shanghai Film Academy, Shanghai University  
+2023 No.10 Advanced Motion Picture Technology ISSN: 1673-3215  
+[CNKI Link](https://kns.cnki.net/kcms2/article/abstract?v=3_cPGLZMhAnTp7LvcPrNeTxs7d4SW4Dav_9_tm-0ucyciDAlqoYWKw4JWxxjIiXBGoRnN52EQGFp5gQHHWVBWunjzzCW4KNFi0HYM4sFLA23zdTrDmQQTEfcT4nTQ2Jx&uniplatform=NZKPT)
+
 Cinematic Sound Design in Unreal Engine  
 A presentation for students in major of Film Production  
 Shanghai Film Academy, Shanghai University  
@@ -80,6 +85,10 @@ Audio Design Pipeline of Realtime Cinematic in Object Based Audio
 A presentation for Film New Tech Series  
 Shanghai Film Academy, Shanghai University  
 2022.3.29
+
+A Procedural Way of Melee Weapon Whoosh Sound Design  
+A patent based on a [tech demo](https://soundoer.com/Xichen_GADD/A-Procedural-Way-of-Melee-Weapon-Whoosh-Sound-Design.html)  
+[CNIPA Link](http://epub.cnipa.gov.cn/patent/CN116764213A)
 
 A Practice of Music as Level Design  
 A presentation at [Wwise Interactive Music Symposium 2021 China](https://info.audiokinetic.com/zh-cn/wwise-interactive-music-symposium-2021-china)  
