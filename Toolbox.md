@@ -9,6 +9,7 @@ nav_exclude: true
     - [Markdown Monster](https://markdownmonster.west-wind.com) | [github](https://github.com/RickStrahl/MarkdownMonster)
 
 - Screen Shot
+    - [Flameshot](https://flameshot.org) | [github](https://github.com/flameshot-org/flameshot)
     - [Greenshot](https://getgreenshot.org) | [github](https://github.com/greenshot/greenshot)
 
 - Picture Viewer
