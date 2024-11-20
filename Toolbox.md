@@ -15,6 +15,7 @@ nav_exclude: true
     - [PureRef](https://www.pureref.com)
 
 - Video Player
+    - [mpv](https://mpv.io) | [github](https://github.com/mpv-player/mpv)
     - [VLC Media Player](https://www.videolan.org/vlc) | [github](https://github.com/videolan/vlc)
 
 - Audio Player
@@ -27,7 +28,7 @@ nav_exclude: true
     - [Reaper](https://www.reaper.fm)
     - [Pro Tools](https://www.avid.com/pro-tools)
 
-OBS
+OBS  
 Advanced Renamer
 
 ***
