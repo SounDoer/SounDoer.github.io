@@ -8,7 +8,6 @@ nav_order: 21
 但是，仍有朋友时不时地问起哪里还能看到这些内容，说其中有一些原创文章还是挺有价值的。既然如此，那我还是调整一下自己纠结的心态，让这些所谓的 Legacy 安静地留在这个小角落里，尚存一丝被发现的可能吧。  
 共计 721 条篇目，以 html 的格式导出，内含所有文字、图片和来源链接。附上网盘下载链接：  
 [Google Drive](https://drive.google.com/file/d/1ENbJGQXl7RATLkjtID-wZhOFrWzSD54E/view?usp=sharing)  
-[Tecent Weiyun](https://share.weiyun.com/wlDLVnzT)
 
 Xichen  
 2020.11
