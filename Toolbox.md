@@ -5,31 +5,24 @@ nav_order: 14
 nav_exclude: true
 ---
 
-- Markdown Editor
-    - [Markdown Monster](https://markdownmonster.west-wind.com) | [github](https://github.com/RickStrahl/MarkdownMonster)
+- [Markdown Monster](https://markdownmonster.west-wind.com)
+- [GIMP](https://www.gimp.org)
+- [Advanced Renamer](https://www.advancedrenamer.com)
 
-- Screen Shot
-    - [Flameshot](https://flameshot.org) | [github](https://github.com/flameshot-org/flameshot)
-    - [Greenshot](https://getgreenshot.org) | [github](https://github.com/greenshot/greenshot)
+- [Flameshot](https://flameshot.org)
+- [Greenshot](https://getgreenshot.org)
+- [OBS Studio](https://obsproject.com)
 
-- Picture Viewer
-    - [PureRef](https://www.pureref.com)
+- [PureRef](https://www.pureref.com)
 
-- Video Player
-    - [mpv](https://mpv.io) | [github](https://github.com/mpv-player/mpv)
-    - [VLC Media Player](https://www.videolan.org/vlc) | [github](https://github.com/videolan/vlc)
+- [mpv](https://mpv.io)
+- [VLC Media Player](https://www.videolan.org/vlc)
 
-- Audio Player
-    - [foobar2000](https://www.foobar2000.org)
+- [foobar2000](https://www.foobar2000.org)
 
-- Video Production
-    - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
-- Audio Production
-    - [Reaper](https://www.reaper.fm)
-    - [Pro Tools](https://www.avid.com/pro-tools)
-
-OBS  
-Advanced Renamer
+- [Reaper](https://www.reaper.fm)
+- [Pro Tools](https://www.avid.com/pro-tools)
 
 ***
