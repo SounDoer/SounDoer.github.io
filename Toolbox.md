@@ -7,7 +7,10 @@ nav_exclude: true
 
 - [Visual Studio Code](https://code.visualstudio.com)
 
+- [Docusaurus](https://docusaurus.io)
 - [Marp](https://marp.app)
+- [Reveal.js](https://revealjs.com)
+- [Slidev](https://sli.dev)
 - [Mermaid](https://mermaid.js.org)
 
 - [Flameshot](https://flameshot.org)
