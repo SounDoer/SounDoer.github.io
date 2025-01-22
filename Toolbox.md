@@ -7,6 +7,9 @@ nav_exclude: true
 
 - [Visual Studio Code](https://code.visualstudio.com)
 
+- [Marp](https://marp.app)
+- [Mermaid](https://mermaid.js.org)
+
 - [Flameshot](https://flameshot.org)
 - [Greenshot](https://getgreenshot.org)
 - [OBS Studio](https://obsproject.com)
