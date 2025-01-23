@@ -18,6 +18,7 @@ nav_exclude: true
 - [OBS Studio](https://obsproject.com)
 
 - [GIMP](https://www.gimp.org)
+- [Inkscape](https://inkscape.org)
 
 - [Advanced Renamer](https://www.advancedrenamer.com)
 
