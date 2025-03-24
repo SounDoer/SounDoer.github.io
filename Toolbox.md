@@ -38,6 +38,7 @@ nav_exclude: true
 **Dev**
 - [Perforce Helix Core](https://www.perforce.com/products/helix-core) <img src="/assets/toolbox/logo-perforce-helixcore.png" style="height: 20px; display: inline-block; vertical-align: middle;">
 - [GitHub](https://github.com/) <img src="/assets/toolbox/logo-github-mark.png" style="height: 20px; display: inline-block; vertical-align: middle;">
+- [Beyond Compare](https://www.scootersoftware.com/) <img src="/assets/toolbox/logo-beyondcompare.png" style="height: 20px; display: inline-block; vertical-align: middle;">
 - [Visual Studio Code](https://code.visualstudio.com/) <img src="/assets/toolbox/logo-visualstudiocode.png" style="height: 25px; display: inline-block; vertical-align: middle;">
 - [Rider](https://www.jetbrains.com/rider/) <img src="/assets/toolbox/logo-rider.png" style="height: 20px; display: inline-block; vertical-align: middle;">
 - [Unreal Engine](https://www.unrealengine.com/) <img src="/assets/toolbox/logo-unrealengine.png" style="height: 20px; display: inline-block; vertical-align: middle;">
