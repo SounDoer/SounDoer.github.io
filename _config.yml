@@ -1,5 +1,5 @@
 # theme: jekyll-theme-slate
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs@main
 plugins:
   - jekyll-remote-theme
 
@@ -9,3 +9,6 @@ description: [SounDoer.com]
 color_scheme: dark
 
 search_enabled: false
+
+exclude:
+  - private
