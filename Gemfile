@@ -1,8 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gem "jekyll", "~> 3.9.0"
-gem "jekyll-remote-theme"
-gem "kramdown-parser-gfm"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme", group: :jekyll_plugins
 
 # gem "rails"

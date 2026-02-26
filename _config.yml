@@ -1,5 +1,5 @@
 # theme: jekyll-theme-slate
-remote_theme: just-the-docs/just-the-docs@main
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 plugins:
   - jekyll-remote-theme
 
