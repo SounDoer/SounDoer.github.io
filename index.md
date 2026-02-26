@@ -58,10 +58,10 @@ Sep 2009 - June 2013
 
 ## Personal Project
 
-[Xichen's Game Audio Design Document](http://soundoer.com/Xichen_GADD)  
+[Xichen's Game Audio Design Document](https://soundoer.com/Xichen_GADD)  
 以专题文章的形式分享我对游戏音频设计的思考与探索，持续更新中。
 
-[Xichen's Vlog](http://soundoer.com/Xichen_VLOG)  
+[Xichen's Vlog](https://soundoer.com/Xichen_VLOG)  
 泛主题的影像记录，持续更新中。
 
 ## Works / Presentation / Research
@@ -88,7 +88,7 @@ Shanghai Film Academy, Shanghai University
 
 A Procedural Way of Melee Weapon Whoosh Sound Design  
 A patent based on a [tech demo](https://soundoer.com/Xichen_GADD/A-Procedural-Way-of-Melee-Weapon-Whoosh-Sound-Design.html)  
-[CNIPA Link](http://epub.cnipa.gov.cn/patent/CN116764213A)
+[CNIPA Link](https://epub.cnipa.gov.cn/patent/CN116764213A)
 
 A Practice of Music as Level Design  
 A presentation at [Wwise Interactive Music Symposium 2021 China](https://info.audiokinetic.com/zh-cn/wwise-interactive-music-symposium-2021-china)  
