@@ -8,6 +8,7 @@ nav_exclude: true
 ## AI Model API
 
 - [阿里云百炼 (通义千问)](https://bailian.console.aliyun.com/)
+- [火山引擎](https://console.volcengine.com/)
 - [DeepSeek](https://platform.deepseek.com/)
 - [智谱 AI 开放平台 (GLM)](https://open.bigmodel.cn/console/overview)
 - [MiniMax](https://platform.minimaxi.com/console/personal-info)
