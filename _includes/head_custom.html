@@ -1,0 +1,13 @@
+<script>
+// Auto-add target="_blank" to all external links
+document.addEventListener('DOMContentLoaded', function() {
+  const links = document.querySelectorAll('a[href^="http"]');
+  links.forEach(function(link) {
+    if (!link.hasAttribute('target')) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+  console.log('External links handler loaded, found', links.length, 'external links');
+});
+</script>
