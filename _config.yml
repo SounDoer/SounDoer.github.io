@@ -12,3 +12,8 @@ search_enabled: false
 
 exclude:
   - private
+
+nav_external_links:
+  - title: Game Audio Design
+    url: https://gad.soundoer.com/
+    opens_in_new_tab: true
